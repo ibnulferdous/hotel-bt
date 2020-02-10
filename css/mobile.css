@@ -1,0 +1,67 @@
+.l-heading {
+    text-align: center;
+}
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444444 dotted 1px;
+}
+
+#showcase .showcase-content {
+    padding: 100px 0 0 0;
+}
+
+/* Home info*/
+#home-info {
+    height: 55vh;
+}
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    padding: 50px 25px;
+}
+
+/* Features */
+.box {
+    float: none;
+    width: 100%;
+    padding: 50px 25px;
+}
+
+/* About Page */
+/* About-info */
+
+#about-info .info-left,
+#about-info .info-right {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    margin: 30px 0 20px 0;
+}
+
+#about-info .info-right img {
+    border-radius: 5px;
+    max-width: 100%;
+}
+
+/* Contact */
+#contact-info .box {
+    border-bottom: #444444 dotted 1px;
+}
